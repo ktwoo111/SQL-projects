@@ -1,0 +1,1 @@
+psql postgresql://tkim@flowers.mines.edu/csci403
